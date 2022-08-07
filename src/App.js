@@ -12,7 +12,7 @@ function App() {
 
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/dariaspytska/react-search"
           target="_blank"
           rel="noopener noreferrer"
         >
